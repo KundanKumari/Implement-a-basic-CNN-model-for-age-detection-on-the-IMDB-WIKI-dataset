@@ -6,3 +6,5 @@
 4. Open the [Model jupyter notebook](https://github.com/KundanKumari/Implement-a-basic-CNN-model-for-age-detection-on-the-IMDB-WIKI-dataset/blob/main/IMDB-WIKI.ipynb)
 5. Run this notebook
 
+### simple output
+![simple output](https://github.com/KundanKumari/Implement-a-basic-CNN-model-for-age-detection-on-the-IMDB-WIKI-dataset/blob/main/output_image.jpg)
